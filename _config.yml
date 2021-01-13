@@ -6,7 +6,7 @@
 name: 为爱发电
 
 # Short bio or description (displayed in the header)
-description: 实用小工具合辑
+description: 实用脚本站
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: http://www.subwaysparkle.com/wp-content/uploads/2021/01/%E5%BF%83%E7%94%B5%E5%9B%BE-1.png
@@ -18,7 +18,7 @@ avatar: http://www.subwaysparkle.com/wp-content/uploads/2021/01/%E5%BF%83%E7%94%
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: 
   facebook:
   flickr:
   github: gitCyan/gitcyan.github.io
